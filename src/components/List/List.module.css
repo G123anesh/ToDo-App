@@ -1,0 +1,12 @@
+.listContainer {
+  display: inline-block;
+}
+.marti {
+  margin: 20px;
+}
+.listItem {
+  margin: 5px 5px;
+}
+.itemDoneStyle {
+  background-color: rgb(88, 234, 88);
+}
